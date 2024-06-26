@@ -1,5 +1,4 @@
 import { useState } from "react";
-import styles from './Calculadora.module.css'
 
 const Calculadora = () => {
     const [Altura, setAltura] = useState(0);
